@@ -1,0 +1,10 @@
+organization: cncf-projects
+repositories:
+  - name: org-admin
+    teams:
+      cncf-project-ops: admin
+teams:
+  - name: cncf-project-ops
+    displayName: CNCF Projects Operations Team
+    maintainers:
+      - mrbobbytables
