@@ -1,4 +1,4 @@
-# CLOWarden governs Access Control for repos in the cncf-tags org
+# CLOWarden governs Access Control for repos in the cncf-projects org
 
 Access to repos in the cncf-tag org is governed [CLOWarden][clo-warden-src-ref]
 
